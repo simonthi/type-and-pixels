@@ -2,7 +2,8 @@
 .appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
-" AAAA"
+AAAA,
+A
 );
 axes = (
 {
@@ -57,7 +58,7 @@ name = "Time 1";
 glyphs = (
 {
 glyphname = A;
-lastChange = "2022-10-12 10:07:52 +0000";
+lastChange = "2022-10-13 08:31:17 +0000";
 layers = (
 {
 layerId = m01;
@@ -100,9 +101,9 @@ nodes = (
 closed = 1;
 nodes = (
 (546,434,o),
-(634,346,o),
-(765,300,c),
-(634,254,o),
+(273,652,o),
+(404,606,c),
+(273,560,o),
 (546,165,o),
 (500,35,c),
 (454,165,o),
